@@ -1,5 +1,15 @@
-### Hi there 👋
-
+### Hello there 👋
+- 🔭 I’m currently working on [Intelygenz](https://intelygenz.com/), involved in some internal open source tools:
+  - [Konstellation Development Lab Server](https://github.com/konstellation-io/kdl-server)
+  - [Konstellation Runtime Engine](https://github.com/konstellation-io/kre)
+- 🌱 I’m currently learning:
+  - ⚓ Kubernetes operators with Golang
+  - 🧪 React testing
+- 📫 How to reach me: ...
+- 😄 Pronouns: He/him
+- 📚 Currently reading:
+  - Assassin's Quest, Robin Hobb - for fun
+  - Kubernetes Operators - for knowledge
 <!--
 **JYisus/JYisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
