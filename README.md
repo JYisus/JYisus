@@ -1,5 +1,5 @@
 ### Hello there 👋
-- 🔭 I’m currently working on [Intelygenz](https://intelygenz.com/), involved in some internal open source tools:
+- 🔭 I’m currently working on [Intelygenz](https://intelygenz.com/), involved in some internal open source projects:
   - [Konstellation Development Lab Server](https://github.com/konstellation-io/kdl-server)
   - [Konstellation Runtime Engine](https://github.com/konstellation-io/kre)
 - 🌱 I’m currently learning:
