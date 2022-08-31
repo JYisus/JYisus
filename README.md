@@ -8,8 +8,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/him
 - 📚 Currently reading:
-  - Assassin's Quest, Robin Hobb - for fun
-  - Kubernetes Operators - for knowledge
+  - The Way of Kings, Brandom Sanderson - for fun
+  - Código Sostenible, Carlos Blé - for knowledge
 <!--
 **JYisus/JYisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
