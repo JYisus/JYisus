@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning:
   - ⚓ Kubernetes operators with Golang
   - 🧪 React testing
-- 📫 How to reach me: ...
+- 📫 How to reach me: jjph22@gmail.com
 - 😄 Pronouns: He/him
 - 📚 Currently reading:
   - The Way of Kings, Brandom Sanderson - for fun
