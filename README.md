@@ -8,8 +8,8 @@
 - 📫 How to reach me: jjph22@gmail.com
 - 😄 Pronouns: He/him
 - 📚 Currently reading:
-  - The Way of Kings, Brandom Sanderson - for fun
-  - Código Sostenible, Carlos Blé - for knowledge
+  - Klara and the Sun, Kazuo Ishiguro - for fun
+  - Mastering Go, Mihalis Tsoukalos - for knowledge
 <!--
 **JYisus/JYisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
