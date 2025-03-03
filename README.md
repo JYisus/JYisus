@@ -4,12 +4,11 @@
   - [Konstellation Runtime Engine](https://github.com/konstellation-io/kre)
 - 🌱 I’m currently learning:
   - ⚓ Kubernetes operators with Golang
-  - 🧪 React testing
 - 📫 How to reach me: jjph22@gmail.com
 - 😄 Pronouns: He/him
 - 📚 Currently reading:
-  - Klara and the Sun, Kazuo Ishiguro - for fun
-  - Mastering Go, Mihalis Tsoukalos - for knowledge
+  - Ship of Destiny, Robin Hobb - for fun
+  - 100 Go Mistakes and How to Avoid Them, Teiva Harsanyi - for knowledge
 <!--
 **JYisus/JYisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
