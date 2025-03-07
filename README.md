@@ -1,7 +1,6 @@
 ### Hello there 👋
 - 🔭 I’m currently working on [Intelygenz](https://intelygenz.com/), involved in some internal open source projects:
-  - [Konstellation Development Lab Server](https://github.com/konstellation-io/kdl-server)
-  - [Konstellation Runtime Engine](https://github.com/konstellation-io/kai)
+  - [Konstellation AI](https://github.com/konstellation-io/kai)
 - 🌱 I’m currently learning:
   - ⚓ Kubernetes operators with Golang
 - 📫 How to reach me: jjph22@gmail.com
