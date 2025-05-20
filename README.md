@@ -1,12 +1,11 @@
 ### Hello there 👋
-- 🔭 I’m currently working on [Intelygenz](https://intelygenz.com/), involved in some internal open source projects:
-  - [Konstellation AI](https://github.com/konstellation-io/kai)
+- 🔭 I’m currently working on [Nuuk]([https://intelygenz.com/](https://www.nuuk.ai/))
 - 🌱 I’m currently learning:
   - ⚓ Kubernetes operators with Golang
 - 📫 How to reach me: jjph22@gmail.com
 - 😄 Pronouns: He/him
 - 📚 Currently reading:
-  - Ship of Destiny, Robin Hobb - for fun
+  - Fool's Errand, Robin Hobb - for fun
   - 100 Go Mistakes and How to Avoid Them, Teiva Harsanyi - for knowledge
 <!--
 **JYisus/JYisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
