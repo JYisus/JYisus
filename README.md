@@ -1,12 +1,11 @@
 ### Hello there 👋
 - 🔭 I’m currently working on [Nuuk]([https://intelygenz.com/](https://www.nuuk.ai/))
 - 🌱 I’m currently learning:
-  - ⚓ Kubernetes operators with Golang
+  - Architecture design
 - 📫 How to reach me: jjph22@gmail.com
 - 😄 Pronouns: He/him
 - 📚 Currently reading:
-  - Fool's Errand, Robin Hobb - for fun
-  - 100 Go Mistakes and How to Avoid Them, Teiva Harsanyi - for knowledge
+  - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann and Chris Riccomini
 <!--
 **JYisus/JYisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
