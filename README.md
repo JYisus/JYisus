@@ -1,5 +1,5 @@
 ### Hello there 👋
-- 🔭 I’m currently working on [Nuuk]([https://intelygenz.com/](https://www.nuuk.ai/))
+- 🔭 I’m currently working on [Nuuk](https://www.nuuk.ai/)
 - 🌱 I’m currently learning:
   - Architecture design
 - 📫 How to reach me: jjph22@gmail.com
